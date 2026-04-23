@@ -1,4 +1,4 @@
-# 💰 Personal Expense Tracker (Pro Version)
+# Professional Personal Expense Tracker (CLI) 💰 
 
 This is a Python-based application to manage daily expenses. 
 
